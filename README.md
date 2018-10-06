@@ -1,2 +1,5 @@
-# arm64-re
-Aarch64 RE learning with easy examples
+
+Install:
+```sh
+$ sudo install arm-none-linux-gnueabi-gcc
+```
