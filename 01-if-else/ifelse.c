@@ -3,8 +3,6 @@
 #include <time.h>
 
 int main() {
-
-
 	srand(time(NULL));
 	int r = rand() % 100;
 
